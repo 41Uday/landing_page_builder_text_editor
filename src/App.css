@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.toolbar {
+  margin-bottom: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.preview {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+.preview-section {
+  margin-bottom: 10px;
+}
